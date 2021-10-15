@@ -10,59 +10,59 @@ from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_btn = [
     [
-        InlineKeyboardButton('View Thumb', callback_data='view_btn'),
-        InlineKeyboardButton('Del Thumb', callback_data='del_btn')
+        InlineKeyboardButton('Visualizar a Thumb', callback_data='view_btn'),
+        InlineKeyboardButton('Apagar a Thumb', callback_data='del_btn')
 
     ],
     [
-        InlineKeyboardButton('Help', callback_data='help_btn'),
-        InlineKeyboardButton('Support', url='t.me/RMProjects')
+        InlineKeyboardButton('Ajuda?', callback_data='help_btn'),
+        InlineKeyboardButton('Suporte', url='t.me/RMProjects')
     ],
     [
-        InlineKeyboardButton('Close', callback_data='close_btn'),
-        InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
+        InlineKeyboardButton('Fechar', callback_data='close_btn'),
+        InlineKeyboardButton('Pesquisa Inline', switch_inline_query_current_chat='')
     ]
 ]
 
 
 del_thumb = [
     [
-        InlineKeyboardButton("DEL THUMB", callback_data="thumb_del_conf_btn"),
-        InlineKeyboardButton("Back", callback_data="a_back_btn")
+        InlineKeyboardButton("Apagar THUMB", callback_data="thumb_del_conf_btn"),
+        InlineKeyboardButton("Voltar", callback_data="a_back_btn")
     ]
 ]
 
 join_channel = [
     [
-        InlineKeyboardButton('⚙ Join Updates', url='https://telegram.me/RMProjects'),
-        InlineKeyboardButton('Search Inline', switch_inline_query_current_chat='')
+        InlineKeyboardButton('⚙ Entre', url='https://telegram.me/GR4V3_S4D_CRAZZY'),
+        InlineKeyboardButton('Pesquisar via inline', switch_inline_query_current_chat='')
     ]
 ]
 
 
 back_button = [
     [
-        InlineKeyboardButton('⬅️ Back', callback_data='back_btn')
+        InlineKeyboardButton('⬅️ Voltar', callback_data='back_btn')
     ]
 ]
 
 close_button = [
     [
-        InlineKeyboardButton('❌ Close', callback_data='close_btn'),
-        InlineKeyboardButton('Home', callback_data='home_btn')
+        InlineKeyboardButton('❌ Fechar', callback_data='close_btn'),
+        InlineKeyboardButton('Voltar o inicial', callback_data='home_btn')
     ]
 ]
 
 cancel_button = [
     [
-        InlineKeyboardButton('Cancel', callback_data='cancel_btn')
+        InlineKeyboardButton('Cancelar', callback_data='cancel_btn')
     ]
 ]
 
 prompt_thumb_btn = [
     [
-        InlineKeyboardButton('Yes', callback_data='set_thumb_btn'),
-        InlineKeyboardButton('No', callback_data='close_btn')
+        InlineKeyboardButton('Sim', callback_data='set_thumb_btn'),
+        InlineKeyboardButton('Não', callback_data='close_btn')
     ]
 ]
 
