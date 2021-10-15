@@ -12,28 +12,28 @@ class Presets(object):
 
 Entre <a href='https://t.me/GR4V3_S4D_CRAZZY'>🎚️𝑪𝒂𝒏𝒂𝒍</a> | ⚙️ Grupo <a href='https://t.me/blazer808_Stay'>𝑮𝒓𝒖𝒑𝒐</a>   
     """
-    WELCOME_MSG = "𝐇𝐞𝐥𝐥𝐨... {}\n𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    OPTIONS_TXT = "𝐈 𝐜𝐚𝐧 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝐬𝐞𝐥𝐞𝐜𝐭 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝."
-    RESULTS_TXT = "👀 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    NO_RESULTS = "❌ 𝐍𝐨 𝐑𝐞𝐬𝐮𝐥𝐭𝐬:"
-    DESCRIPTION = "Duration: {} || {}"
-    NOT_AUTH_TXT = "❌ ❌ 𝐘𝐨𝐮 𝐚𝐫𝐞 𝐧𝐨𝐭 𝐚𝐮𝐭𝐡𝐨𝐫𝐢𝐳𝐞𝐝 ❌ ❌"
-    DEFAULT_TITLE = "𝐈𝐧𝐥𝐢𝐧𝐞 𝐓𝐮𝐛𝐞 𝐌𝐚𝐭𝐞 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲"
+    WELCOME_MSG = "𝑶𝒑𝒂 𝒂𝒅𝒆𝒎𝒊𝒓... {}\𝑬𝒖 𝒇𝒂ç𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒔 𝒅𝒆 𝒗í𝒅𝒆𝒐𝒔 𝒆 𝒅𝒆 𝒎ú𝒔𝒊𝒄𝒂𝒔.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝑺𝒆𝒍𝒆𝒄𝒊𝒐𝒏𝒆 𝒆 𝒃𝒂𝒊𝒙𝒆."
+    OPTIONS_TXT = "𝑬𝒖 𝒇𝒂ç𝒐 𝒅𝒐𝒘𝒏𝒍𝒐𝒂𝒅𝒔 𝒅𝒆 𝒗í𝒅𝒆𝒐𝒔 𝒆 𝒅𝒆 𝒎ú𝒔𝒊𝒄𝒂𝒔.\n𝐒𝐞𝐚𝐫𝐜𝐡 𝐈𝐧𝐥𝐢𝐧𝐞- 𝑺𝒆𝒍𝒆𝒄𝒊𝒐𝒏𝒆 𝒆 𝒃𝒂𝒊𝒙𝒆."
+    RESULTS_TXT = "🧐 𝙍𝙚𝙨𝙪𝙡𝙩𝙖𝙙𝙤𝙨:"
+    NO_RESULTS = "❌ 𝑵ã𝒐 𝒕𝒆𝒎 𝒓𝒆𝒔𝒖𝒍𝒕𝒂𝒅𝒐𝒔:"
+    DESCRIPTION = "𝐷𝑢𝑟𝑎çã𝑜: {} || {}"
+    NOT_AUTH_TXT = "😳 ❌ 𝑽𝒐𝒄ê 𝒏ã𝒐 é 𝒂𝒖𝒕𝒐𝒓𝒊𝒛𝒂𝒅𝒐 😳 ❌"
+    DEFAULT_TITLE = "😴 𝑻𝒓𝒂𝒔𝒉 𝑮𝒂𝒏𝒈 𝑰𝒏𝒍𝒊𝒏𝒆 😴"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu"
-    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝐌𝟒𝐌𝐚𝐥𝐥𝐮 | 𝐆𝐢𝐭𝐇𝐮𝐛"
-    DEV_TITLE = "𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 𝐈𝐧𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧"
+    DEFAULT_LINK = "https://t.me/xPV_D4_M34_S4Y0R1_D3M0N_CR4ZZYx"
+    DEFAULT_DESCRIPTION = "𝐋𝐢𝐧𝐤: 𝑪𝒓𝒊𝒂𝒅𝒐𝒓 | 𝙋𝙖𝙚"
+    DEV_TITLE = "𝐼𝑛𝑓𝑜𝑟𝑚𝑎çõ𝑒𝑠 𝑑𝑒 𝑑𝑒𝑠𝑒𝑛𝑣𝑜𝑙𝑣𝑖𝑚𝑒𝑛𝑡𝑜"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
     DEV_LINK = "https://t.me/space4renjith"
-    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝐑𝐞𝐧𝐣𝐢𝐭𝐡 𝐌𝐚𝐧𝐠𝐚𝐥 | 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦"
-    SHARE_BUTTON_TEXT = "𝙃𝙞..  👋\n𝐂𝐡𝐞𝐜𝐤𝐨𝐮𝐭 : @{username}\n𝐅𝐨𝐫 𝐬𝐞𝐚𝐫𝐜𝐡 𝐚𝐧𝐝 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐯𝐢𝐝𝐞𝐨𝐬"
-    SAVED_THUMB = "<b>✅ Thumbnail Saved Successfully</b>\n<code>This file will be used in next YouTube " \
+    DEV_DESCRIPTION = "𝐍𝐚𝐦𝐞: 𝑪𝒓𝒊𝒂𝒅𝒐𝒓 | 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦"
+    SHARE_BUTTON_TEXT = "Olá..  👋\n𝐂𝐡𝐞𝐜𝐤 : @{username}\𝗣𝗮𝗿𝗮 𝗽𝗲𝘀𝗾𝘂𝗶𝘀𝗮𝗿 𝗲 𝗯𝗮𝗶𝘅𝗮𝗿 𝘃í𝗱𝗲𝗼𝘀"
+    SAVED_THUMB = "<b>✅ Thumbnail Salvado Com Successo</b>\n<code>O file uso para a próxima, YouTube " \
                   "downloads until you clear it !</code> "
-    WAIT_MESSAGE = "𝐏𝐥𝐞𝐚𝐬𝐞 𝐰𝐚𝐢𝐭.. 𝟒 𝐚 𝐬𝐞𝐜𝐨𝐧𝐝 !"
-    THUMB_CAPTION = "<code>This image is your current thumbnail, Tap </code><b> DEL THUMB </b><code> if you wish to " \
+    WAIT_MESSAGE = "𝑃𝑜𝑟 𝑓𝑎𝑣𝑜𝑟, 𝑎𝑔𝑢𝑎𝑟𝑑𝑒.. 𝟒 𝐚 segundos!"
+    THUMB_CAPTION = "<code>A imagem é correta para thumbnail, Tap </code><b> DEL THUMB </b><code> if you wish to " \
                     "clear it !</code> "
-    NO_THUMB = "𝐓𝐡𝐞𝐫𝐞 𝐚𝐫𝐞 𝐧𝐨 𝐭𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐥𝐨𝐜𝐚𝐥 𝐝𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐲, 𝐏𝐥𝐞𝐚𝐬𝐞 𝐮𝐩𝐥𝐨𝐚𝐝 𝐚𝐧 𝐢𝐦𝐚𝐠𝐞 𝐭𝐨 𝐬𝐚𝐯𝐞 𝐢𝐭 !"
-    DEL_THUMB_CNF = "𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐜𝐥𝐞𝐚𝐫𝐞𝐝 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲 ✅"
+    NO_THUMB = "𝑷𝒆𝒈𝒖𝒆 𝒂𝒍𝒈𝒖𝒎𝒂 𝒊𝒎𝒂𝒈𝒆𝒎 𝒆 𝒖𝒑𝒍𝒐𝒂𝒅 𝒑𝒂𝒓𝒂 𝒗í𝒅𝒆𝒐𝒔!"
+    DEL_THUMB_CNF = "𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐴𝑝𝑎𝑔𝑎𝑑𝑜 𝑐𝑜𝑚 𝑠𝑢𝑐𝑒𝑠𝑠𝑜 🧐👍✅"
     LINK_ERROR = "𝐒𝐨𝐦𝐞 𝐞𝐫𝐫𝐨𝐫𝐬 𝐨𝐜𝐜𝐮𝐫𝐫𝐞𝐝 𝐰𝐡𝐢𝐥𝐞 𝐭𝐡𝐞 𝐩𝐫𝐨𝐜𝐞𝐬𝐬 !\n𝐏𝐥𝐞𝐚𝐬𝐞 𝐭𝐫𝐲 𝐚𝐠𝐚𝐢𝐧 𝐥𝐚𝐭𝐞𝐫.."
     #
     #
