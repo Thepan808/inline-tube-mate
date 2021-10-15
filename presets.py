@@ -41,15 +41,15 @@ Entre <a href='https://t.me/GR4V3_S4D_CRAZZY'>🎚️𝑪𝒂𝒏𝒂𝒍</a> | 
     NO_VOID_FORMAT_FOUND = "<code>{}</code>"
     FINISHED_PROGRESS_STR = "◼️"
     UN_FINISHED_PROGRESS_STR = "◻️"
-    CHECKING_LINK = "⏳ 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭... ⏳"
-    DOWNLOAD_START = "𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠... 𝐏𝐥𝐞𝐚𝐬𝐞 𝐖𝐚𝐢𝐭 !"
-    UPLOAD_START = "𝐔𝐩𝐥𝐨𝐚𝐝𝐢𝐧𝐠 𝐭𝐨 𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦..."
-    NOT_DOWNLOADABLE = "𝐔𝐑𝐋 𝐍𝐨𝐭 𝐝𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐚𝐛𝐥𝐞 !"
-    CANCEL_PROCESS = "<b>Process Cancelled Successfully</b>  ✅"
-    SEND_TEXT = "<b>Processing...</b>\n<i>This message will automatically disappear when the broadcasting is finished</i> "
+    CHECKING_LINK = "⏳ Pᴏʀ ғᴀᴠᴏʀ, ᴇsᴘᴇʀᴇ... ⏳"
+    DOWNLOAD_START = "ᵇᵃⁱˣᵃⁿᵈᵒ... ᵃᵍᵒʳᵃ ᵃᵍᵘᵃʳᵈᵉ ᵖᵒʳʳᵃ !"
+    UPLOAD_START = "𝖢𝖺𝗋𝗋𝖾𝗀𝖺𝗇𝖽𝗈 𝖾 𝖾𝗇𝗏𝗂𝖺𝗇𝖽𝗈 𝗉𝖺𝗋𝖺 𝗏𝗈𝖼ê..."
+    NOT_DOWNLOADABLE = "𝐄𝐬𝐬𝐞 𝐔𝐫𝐥 𝐧𝐞𝐦 𝐛𝐚𝐢𝐱𝐚 𝐧𝐞𝐦 𝐚 𝐩𝐚𝐮, 𝐟𝐞𝐥𝐚 🧐!"
+    CANCEL_PROCESS = "<b>𝑃𝑟𝑜𝑐𝑒𝑠𝑠𝑜 𝑐𝑎𝑛𝑐𝑒𝑙𝑎𝑑𝑜 𝑐𝑜𝑚 𝑠𝑢𝑐𝑒𝑠𝑠𝑜</b>  ✅"
+    SEND_TEXT = "<b>𝑪𝒂𝒓𝒓𝒆𝒈𝒂𝒏𝒅𝒐...</b>\n<i>This message will automatically disappear when the broadcasting is finished</i> "
     REPLY_ERROR = "<i>Use this command as a replay to any telegram message with out any spaces.</i>"
-    USERS_LIST = "<b>Total: {}</b>\n\nSubscribers - {}\nBlocked / Deleted - {}"
-    WAIT_MSG = "<b>Processing...</b>\n<i>This will take some time...</i>"
+    USERS_LIST = "<b>Total: {}</b>\n\nIncritos - {}\nBloqueados / Apagados - {}"
+    WAIT_MSG = "<b>𝑪𝒂𝒓𝒓𝒆𝒈𝒂𝒏𝒅𝒐...</b>\n<i>This will take some time...</i>"
     PROMPT_THUMB = "<b>Do you want to set this image as a thumbnail?</b>"
     FORMAT_SELECTION = """
 <b>Title -</b> {}
@@ -61,7 +61,7 @@ Entre <a href='https://t.me/GR4V3_S4D_CRAZZY'>🎚️𝑪𝒂𝒏𝒂𝒍</a> | 
     """
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | newfilename | username | password"""
-    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>Credits- </b><b><a href='https://t.me/RMProjects'>@RMProjects</a></b>"
+    CUSTOM_CAPTION_UL_FILE = "\xad \xad\n<code>{}</code>\n\n<b>By- </b><b><a href='https://t.me/xPV_D4_M34_S4Y0R1_D3M0N_CR4ZZYx'>𝑪𝒓𝒊𝒂𝒅𝒐𝒓</a></b>"
     RCHD_TG_API_LIMIT = "Detected File Size: {}\nSorry. But, I cannot upload files " \
                         "greater than 1.95GB due to Telegram API limitations."
     AD_STRING_TO_REPLACE = "please report this issue on https://yt-dl.org/bug . Make sure you are using the " \
